@@ -17,5 +17,5 @@ print(y.shape)
 #train qilish jarayoni
 model = LinearRegression()
 model.fit(X, y)
-with open('models/linerReg-Samariddin.pkl','wb') as f:
+with open('models/linearReg-Samariddin.pkl','wb') as f:
     pickle.dump(model,f)

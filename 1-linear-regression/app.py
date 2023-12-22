@@ -13,7 +13,7 @@ def calculate(room):
 
 
 # load model
-with open('models/linerReg-Samariddin.pkl', 'rb') as f:
+with open('models/linearReg-Samariddin.pkl', 'rb') as f:
     model = pickle.load(f)
 
 with gr.Blocks() as demo:
