@@ -1,5 +1,6 @@
 ## Asosiy 5-ta ML algoritm
 
+**Videolar**: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
 
 ### 1. Linear regression
 - python kodi (`sklearn` orqali) [colab](https://colab.research.google.com/drive/1Y78N2vkR4ZvLqzeInj9iAn2qe4QgFiRC?usp=sharing).
