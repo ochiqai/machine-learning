@@ -1,4 +1,4 @@
-## Asosiy 5-ta ML algoritm
+## 5 ta muhim Mashina O'rganishi algoritmlari (ML)
 
 **Videolar**: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
 
