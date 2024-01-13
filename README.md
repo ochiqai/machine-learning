@@ -14,7 +14,9 @@ Savollar bo'lsa izoh (komment qoldiring).
 - Gradio (hali tayyormas)
 - Kaggle (hali tayyormas)
 
-### 2. Logistic regression
+### 2. Logistic regression (Klassifikatsiyalash)
+- python [colab](https://colab.research.google.com/drive/1WAiLPAtfRCE1i5Y-KgWQ_eir4joXE4lv?usp=sharing), [github](2-logistic-regression/2_logistic_regression.ipynb)
+- Sonni ikkiga bo'linishi/masligiga qarab klassifikatsiyalash [colab](https://colab.research.google.com/drive/1WAiLPAtfRCE1i5Y-KgWQ_eir4joXE4lv?usp=sharing), [github](2-logistic-regression/2_logistic_regression.ipynb)
 
 ### 3. K-nearest neighbors
 
