@@ -19,7 +19,9 @@ Savollar bo'lsa izoh (komment qoldiring).
 - Sonni ikkiga bo'linishi/masligiga qarab klassifikatsiyalash [colab](https://colab.research.google.com/drive/1WAiLPAtfRCE1i5Y-KgWQ_eir4joXE4lv?usp=sharing), [github](2-logistic-regression/2_logistic_regression.ipynb)
 
 ### 3. K-nearest neighbors
-
+- python [colab](https://colab.research.google.com/drive/1bnwUt_s96Jw8VUp7Agz_MDOceVSPWKwO?usp=sharing), [github]()
+  
 ### 4. Neural networks
+
 
 ### 5. K-means clustering
