@@ -10,7 +10,7 @@ Maslahat:
 - Savollar bo'lsa izoh/komment qoldiring
 
 ### 1-Daraja
-**Videolar**: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
+:camera: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
 
 #### 1. Linear regression (Regressiya)
 - python kodi (`sklearn` orqali) [colab](https://colab.research.google.com/drive/1Y78N2vkR4ZvLqzeInj9iAn2qe4QgFiRC?usp=sharing), [github](1-linear-regression/1-linear-regression.ipynb)
