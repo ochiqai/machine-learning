@@ -1,5 +1,7 @@
 ## 5 ta muhim Mashina O'rganishi algoritmlari (ML)
-- Darslar darajalarga bo'lingan. 1-darajada asosan bu algoritmlar nimaligiga urg'u beriladi. Keyingilarida chuqurlashib boraveradi.
+Darslar darajalarga bo'lingan. 
+- 1-darajada asosan bu algoritmlar nimaligiga urg'u beriladi. 
+- Keyingilarida chuqurlashib boraveradi.
 
 Maslahat: 
 - Avvalo videoni ko'ring
