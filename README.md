@@ -1,8 +1,11 @@
 ## 5 ta muhim Mashina O'rganishi algoritmlari (ML)
-Darslar darajalarga bo'lingan. Yana 1-darajada asosan bu algoritmlar nimaligga urgu beriladi. Keyingilarida chuqurlashib boraveradi.
+- Darslar darajalarga bo'lingan. 1-darajada asosan bu algoritmlar nimaligiga urg'u beriladi. Keyingilarida chuqurlashib boraveradi.
 
-Maslahat: Birinchi videoni ko'ring keyin, o'zingiz albatta bajarib ko'ring. Video ko'rish bilan ko'nikma hosil bo'lmaydi.
-Savollar bo'lsa izoh/komment qoldiring.
+Maslahat: 
+- Avvalo videoni ko'ring
+- O'zingiz albatta bajaring
+- Video ko'rish bilan ko'nikma hosil bo'lmaydi.
+- Savollar bo'lsa izoh/komment qoldiring.
 
 ### 1-Daraja
 **Videolar**: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
@@ -32,7 +35,7 @@ Savollar bo'lsa izoh/komment qoldiring.
 
 ### 2-Daraja
 
-#### 6-Tayyor Datasetlar
+#### 6. Tayyor Datasetlar
 - python [colab](https://colab.research.google.com/drive/1DsNYsxkIQujbuwsUFnmhJryjE3FN6yc0?usp=sharing), [github]()
 
 
