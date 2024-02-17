@@ -6,8 +6,8 @@ Darslar darajalarga bo'lingan.
 Maslahat: 
 - Avvalo videoni ko'ring
 - O'zingiz albatta bajaring
-- Video ko'rish bilan ko'nikma hosil bo'lmaydi.
-- Savollar bo'lsa izoh/komment qoldiring.
+- Video ko'rish bilan ko'nikma hosil bo'lmaydi
+- Savollar bo'lsa izoh/komment qoldiring
 
 ### 1-Daraja
 **Videolar**: YouTube [link](https://www.youtube.com/watch?v=eHvKjVVhV2s&list=PLXJ_8WFtNx8SuUGg31FE-qxMEk2gT3D9d)
